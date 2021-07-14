@@ -1,4 +1,4 @@
 # RapidOCR
 
 
-We were moved to [RapidOCR(https://github.com/RapidAI/RapidOCR)
+We have moved to [RapidOCR(https://github.com/RapidAI/RapidOCR)
